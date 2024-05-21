@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/745540028461647470/9a0c9296b8d246068bbc1efa8254224f/artifacts
+end_time: 1716311072220
+entry_point_name: ''
+experiment_id: '745540028461647470'
+lifecycle_stage: active
+run_id: 9a0c9296b8d246068bbc1efa8254224f
+run_name: silent-newt-191
+run_uuid: 9a0c9296b8d246068bbc1efa8254224f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716311059497
+status: 3
+tags: []
+user_id: codespace

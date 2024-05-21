@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/745540028461647470/79270b020444488d8d2cf619d7fc77a4/artifacts
+end_time: 1716311059479
+entry_point_name: ''
+experiment_id: '745540028461647470'
+lifecycle_stage: active
+run_id: 79270b020444488d8d2cf619d7fc77a4
+run_name: serious-stag-509
+run_uuid: 79270b020444488d8d2cf619d7fc77a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716311057816
+status: 3
+tags: []
+user_id: codespace

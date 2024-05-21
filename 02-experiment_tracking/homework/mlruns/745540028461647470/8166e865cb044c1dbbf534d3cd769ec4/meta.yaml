@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/745540028461647470/8166e865cb044c1dbbf534d3cd769ec4/artifacts
+end_time: 1716311057800
+entry_point_name: ''
+experiment_id: '745540028461647470'
+lifecycle_stage: active
+run_id: 8166e865cb044c1dbbf534d3cd769ec4
+run_name: ambitious-colt-532
+run_uuid: 8166e865cb044c1dbbf534d3cd769ec4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716311050082
+status: 3
+tags: []
+user_id: codespace

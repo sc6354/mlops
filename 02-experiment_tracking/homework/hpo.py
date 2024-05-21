@@ -1,4 +1,5 @@
 import os
+import argparse
 import pickle
 import click
 import mlflow
@@ -17,28 +18,23 @@ def load_pickle(filename: str):
         return pickle.load(f_in)
 
 
-@click.command()
-@click.option(
-    "--data_path",
-    default="./output",
-    help="Location where the processed NYC taxi trip data was saved"
-)
-@click.option(
-    "--num_trials",
-    default=15,
-    help="The number of parameter evaluations for the optimizer to explore"
-)
 def run_optimization(data_path: str, num_trials: int):
 
     X_train, y_train = load_pickle(os.path.join(data_path, "train.pkl"))
     X_val, y_val = load_pickle(os.path.join(data_path, "val.pkl"))
 
     def objective(params):
+        
+        with mlflow.start_run():
+            mlflow.set_tag("model", "RF")
+            mlflow.log_params(params)
 
-        rf = RandomForestRegressor(**params)
-        rf.fit(X_train, y_train)
-        y_pred = rf.predict(X_val)
-        rmse = mean_squared_error(y_val, y_pred, squared=False)
+            rf = RandomForestRegressor(**params)
+            rf.fit(X_train, y_train)
+            y_pred = rf.predict(X_val)
+            rmse = mean_squared_error(y_val, y_pred, squared=False)
+            
+            mlflow.log_metric("rmse", rmse)
 
         return {'loss': rmse, 'status': STATUS_OK}
 
@@ -62,4 +58,17 @@ def run_optimization(data_path: str, num_trials: int):
 
 
 if __name__ == '__main__':
-    run_optimization()
+    parser = argparse.ArgumentParser()
+    parser.add_argument(
+        "--data_path",
+        default="/workspaces/mlops/02-experiment_tracking/homework/output",
+        help="the location where the processed NYC taxi trip data was saved."
+    )
+    parser.add_argument(
+        "--max_evals",
+        default=15,
+        help="the number of parameter evaluations for the optimizer to explore."
+    )
+    args = parser.parse_args()
+
+    run_optimization(args.data_path, args.max_evals)

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/745540028461647470/7bffaa12d0564c76adc63a98172045ad/artifacts
+end_time: 1716310838728
+entry_point_name: ''
+experiment_id: '745540028461647470'
+lifecycle_stage: active
+run_id: 7bffaa12d0564c76adc63a98172045ad
+run_name: mysterious-skunk-118
+run_uuid: 7bffaa12d0564c76adc63a98172045ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716310835156
+status: 3
+tags: []
+user_id: codespace

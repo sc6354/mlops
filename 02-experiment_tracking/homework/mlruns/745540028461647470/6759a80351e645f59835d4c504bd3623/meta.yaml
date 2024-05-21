@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/745540028461647470/6759a80351e645f59835d4c504bd3623/artifacts
+end_time: 1716310860602
+entry_point_name: ''
+experiment_id: '745540028461647470'
+lifecycle_stage: active
+run_id: 6759a80351e645f59835d4c504bd3623
+run_name: big-bee-687
+run_uuid: 6759a80351e645f59835d4c504bd3623
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716310855055
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/745540028461647470/a29ce78de3f94994b0265d9350a1c874/artifacts
+end_time: 1716310990452
+entry_point_name: ''
+experiment_id: '745540028461647470'
+lifecycle_stage: active
+run_id: a29ce78de3f94994b0265d9350a1c874
+run_name: respected-goose-417
+run_uuid: a29ce78de3f94994b0265d9350a1c874
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716310990201
+status: 3
+tags: []
+user_id: codespace

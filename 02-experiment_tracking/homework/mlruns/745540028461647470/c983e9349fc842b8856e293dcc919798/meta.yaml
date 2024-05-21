@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/745540028461647470/c983e9349fc842b8856e293dcc919798/artifacts
+end_time: 1716310871766
+entry_point_name: ''
+experiment_id: '745540028461647470'
+lifecycle_stage: active
+run_id: c983e9349fc842b8856e293dcc919798
+run_name: nebulous-rook-36
+run_uuid: c983e9349fc842b8856e293dcc919798
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716310870566
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/745540028461647470/cf302371806345afb5f03f93b1eac664/artifacts
+end_time: 1716310947583
+entry_point_name: ''
+experiment_id: '745540028461647470'
+lifecycle_stage: active
+run_id: cf302371806345afb5f03f93b1eac664
+run_name: mercurial-hen-379
+run_uuid: cf302371806345afb5f03f93b1eac664
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716310940059
+status: 3
+tags: []
+user_id: codespace

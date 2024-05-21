@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/745540028461647470/a06c7ce8d4134b8cbcea780d27e219e9/artifacts
+end_time: 1716311039947
+entry_point_name: ''
+experiment_id: '745540028461647470'
+lifecycle_stage: active
+run_id: a06c7ce8d4134b8cbcea780d27e219e9
+run_name: resilient-lamb-647
+run_uuid: a06c7ce8d4134b8cbcea780d27e219e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716311039004
+status: 3
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/745540028461647470/533a3372f7974b95aafc0ded88d48541/artifacts
+end_time: 1716311015920
+entry_point_name: ''
+experiment_id: '745540028461647470'
+lifecycle_stage: active
+run_id: 533a3372f7974b95aafc0ded88d48541
+run_name: skillful-crow-178
+run_uuid: 533a3372f7974b95aafc0ded88d48541
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716311012048
+status: 3
+tags: []
+user_id: codespace

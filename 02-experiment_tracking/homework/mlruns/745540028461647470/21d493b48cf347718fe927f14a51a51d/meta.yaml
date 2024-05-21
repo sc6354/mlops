@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/745540028461647470/21d493b48cf347718fe927f14a51a51d/artifacts
+end_time: 1716310968414
+entry_point_name: ''
+experiment_id: '745540028461647470'
+lifecycle_stage: active
+run_id: 21d493b48cf347718fe927f14a51a51d
+run_name: luxuriant-wren-134
+run_uuid: 21d493b48cf347718fe927f14a51a51d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716310954214
+status: 3
+tags: []
+user_id: codespace

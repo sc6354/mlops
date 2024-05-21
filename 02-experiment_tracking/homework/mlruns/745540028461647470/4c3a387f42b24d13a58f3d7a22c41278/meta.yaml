@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/745540028461647470/4c3a387f42b24d13a58f3d7a22c41278/artifacts
+end_time: 1716310940034
+entry_point_name: ''
+experiment_id: '745540028461647470'
+lifecycle_stage: active
+run_id: 4c3a387f42b24d13a58f3d7a22c41278
+run_name: languid-elk-666
+run_uuid: 4c3a387f42b24d13a58f3d7a22c41278
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716310935552
+status: 3
+tags: []
+user_id: codespace

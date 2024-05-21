@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/745540028461647470/c340a9ddcc11467babe2dacfb32ad699/artifacts
+end_time: 1716310868543
+entry_point_name: ''
+experiment_id: '745540028461647470'
+lifecycle_stage: active
+run_id: c340a9ddcc11467babe2dacfb32ad699
+run_name: selective-mouse-499
+run_uuid: c340a9ddcc11467babe2dacfb32ad699
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716310860610
+status: 3
+tags: []
+user_id: codespace

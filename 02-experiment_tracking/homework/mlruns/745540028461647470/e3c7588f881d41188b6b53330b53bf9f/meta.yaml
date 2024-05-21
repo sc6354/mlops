@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/745540028461647470/e3c7588f881d41188b6b53330b53bf9f/artifacts
+end_time: 1716310824013
+entry_point_name: ''
+experiment_id: '745540028461647470'
+lifecycle_stage: active
+run_id: e3c7588f881d41188b6b53330b53bf9f
+run_name: orderly-sow-619
+run_uuid: e3c7588f881d41188b6b53330b53bf9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716310814947
+status: 3
+tags: []
+user_id: codespace

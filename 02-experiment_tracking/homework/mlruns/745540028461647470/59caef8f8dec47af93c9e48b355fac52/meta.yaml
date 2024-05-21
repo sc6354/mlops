@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/745540028461647470/59caef8f8dec47af93c9e48b355fac52/artifacts
+end_time: 1716311080060
+entry_point_name: ''
+experiment_id: '745540028461647470'
+lifecycle_stage: active
+run_id: 59caef8f8dec47af93c9e48b355fac52
+run_name: judicious-trout-253
+run_uuid: 59caef8f8dec47af93c9e48b355fac52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716311077200
+status: 3
+tags: []
+user_id: codespace

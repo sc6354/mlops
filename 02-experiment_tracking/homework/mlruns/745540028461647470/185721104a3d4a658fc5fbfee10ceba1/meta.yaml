@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/745540028461647470/185721104a3d4a658fc5fbfee10ceba1/artifacts
+end_time: 1716310841602
+entry_point_name: ''
+experiment_id: '745540028461647470'
+lifecycle_stage: active
+run_id: 185721104a3d4a658fc5fbfee10ceba1
+run_name: bedecked-kit-949
+run_uuid: 185721104a3d4a658fc5fbfee10ceba1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716310838735
+status: 3
+tags: []
+user_id: codespace

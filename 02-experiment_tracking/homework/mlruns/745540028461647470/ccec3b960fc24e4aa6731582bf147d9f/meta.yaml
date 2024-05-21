@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/745540028461647470/ccec3b960fc24e4aa6731582bf147d9f/artifacts
+end_time: 1716310814941
+entry_point_name: ''
+experiment_id: '745540028461647470'
+lifecycle_stage: active
+run_id: ccec3b960fc24e4aa6731582bf147d9f
+run_name: honorable-snake-976
+run_uuid: ccec3b960fc24e4aa6731582bf147d9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716310805601
+status: 3
+tags: []
+user_id: codespace

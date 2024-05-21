@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/745540028461647470/56825f67751b45a0adfc73346af9ff9a/artifacts
+end_time: 1716311050067
+entry_point_name: ''
+experiment_id: '745540028461647470'
+lifecycle_stage: active
+run_id: 56825f67751b45a0adfc73346af9ff9a
+run_name: puzzled-zebra-981
+run_uuid: 56825f67751b45a0adfc73346af9ff9a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716311039965
+status: 3
+tags: []
+user_id: codespace

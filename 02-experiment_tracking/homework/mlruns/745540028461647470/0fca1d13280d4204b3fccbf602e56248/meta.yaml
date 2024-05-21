@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/745540028461647470/0fca1d13280d4204b3fccbf602e56248/artifacts
+end_time: 1716310883007
+entry_point_name: ''
+experiment_id: '745540028461647470'
+lifecycle_stage: active
+run_id: 0fca1d13280d4204b3fccbf602e56248
+run_name: rambunctious-mink-82
+run_uuid: 0fca1d13280d4204b3fccbf602e56248
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716310871800
+status: 3
+tags: []
+user_id: codespace

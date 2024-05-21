@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/745540028461647470/eadb4d4ceffb4dcd8bbce47eb6e4d2c5/artifacts
+end_time: 1716311032534
+entry_point_name: ''
+experiment_id: '745540028461647470'
+lifecycle_stage: active
+run_id: eadb4d4ceffb4dcd8bbce47eb6e4d2c5
+run_name: enthused-toad-635
+run_uuid: eadb4d4ceffb4dcd8bbce47eb6e4d2c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716311028472
+status: 3
+tags: []
+user_id: codespace

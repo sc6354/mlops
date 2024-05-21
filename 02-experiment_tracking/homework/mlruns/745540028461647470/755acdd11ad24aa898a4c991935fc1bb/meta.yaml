@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/745540028461647470/755acdd11ad24aa898a4c991935fc1bb/artifacts
+end_time: 1716310830576
+entry_point_name: ''
+experiment_id: '745540028461647470'
+lifecycle_stage: active
+run_id: 755acdd11ad24aa898a4c991935fc1bb
+run_name: selective-croc-850
+run_uuid: 755acdd11ad24aa898a4c991935fc1bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716310824977
+status: 3
+tags: []
+user_id: codespace
