@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/847283524227244158/58f5de30a5f34095a50ec42538185054/artifacts
+deleted_time: 1716312557002
+end_time: null
+entry_point_name: ''
+experiment_id: '847283524227244158'
+lifecycle_stage: deleted
+run_id: 58f5de30a5f34095a50ec42538185054
+run_name: resilient-zebra-428
+run_uuid: 58f5de30a5f34095a50ec42538185054
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716311763664
+status: 1
+tags: []
+user_id: codespace

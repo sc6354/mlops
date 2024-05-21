@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/847283524227244158/d338f64527ec4e729fe3c2376c91067d/artifacts
+deleted_time: 1716312556752
+end_time: null
+entry_point_name: ''
+experiment_id: '847283524227244158'
+lifecycle_stage: deleted
+run_id: d338f64527ec4e729fe3c2376c91067d
+run_name: bemused-owl-994
+run_uuid: d338f64527ec4e729fe3c2376c91067d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716311689847
+status: 1
+tags: []
+user_id: codespace

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/847283524227244158/a2329ccacf48410c82cc16d5c2c06b62/artifacts
+deleted_time: 1716312557005
+end_time: null
+entry_point_name: ''
+experiment_id: '847283524227244158'
+lifecycle_stage: deleted
+run_id: a2329ccacf48410c82cc16d5c2c06b62
+run_name: flawless-dove-281
+run_uuid: a2329ccacf48410c82cc16d5c2c06b62
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716312292790
+status: 1
+tags: []
+user_id: codespace

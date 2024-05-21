@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/847283524227244158/962a90e48c3b43a88f761dc75d73586c/artifacts
+end_time: 1716312745917
+entry_point_name: ''
+experiment_id: '847283524227244158'
+lifecycle_stage: active
+run_id: 962a90e48c3b43a88f761dc75d73586c
+run_name: chill-shoat-208
+run_uuid: 962a90e48c3b43a88f761dc75d73586c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716312734439
+status: 3
+tags: []
+user_id: codespace

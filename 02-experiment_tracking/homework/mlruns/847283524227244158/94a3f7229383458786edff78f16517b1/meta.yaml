@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/847283524227244158/94a3f7229383458786edff78f16517b1/artifacts
+end_time: 1716312754040
+entry_point_name: ''
+experiment_id: '847283524227244158'
+lifecycle_stage: active
+run_id: 94a3f7229383458786edff78f16517b1
+run_name: mysterious-goose-550
+run_uuid: 94a3f7229383458786edff78f16517b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716312745924
+status: 3
+tags: []
+user_id: codespace
