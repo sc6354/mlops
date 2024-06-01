@@ -14,7 +14,7 @@
 __pycache__/
 docker-compose.override.yml
 logs/
-mage_data/
+--mage_data/
 mlruns/
 secrets/
 terraform.tfstate
