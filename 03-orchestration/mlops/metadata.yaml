@@ -15,3 +15,4 @@ features:
   operation_history: true
   polars: true
 help_improve_mage: true
+project_uuid: 89f0b66c5cd74f42b1013c6dcf990dc2
