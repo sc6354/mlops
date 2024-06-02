@@ -30,7 +30,7 @@ blocks:
   language: python
   name: hw3_transformer
   retry_config: null
-  status: updated
+  status: executed
   timeout: null
   type: transformer
   upstream_blocks:
